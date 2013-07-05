@@ -1,2 +1,7 @@
+author:
+  name: Œà‚Ë‚¢‚Æ
+  
 pretzel: 
     engine: liquid
+
+markdown: rdiscount
