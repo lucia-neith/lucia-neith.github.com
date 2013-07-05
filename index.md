@@ -4,7 +4,7 @@ title : SiteName
 ---
 
 <ul class="posts">
-    {% for post in site.posts  limit:5 %}
+    {% for post in site.posts limit:5 %}
 		<li>
 			<div class="idea">
 				{% if forloop.first and post.layout == "post" %}
