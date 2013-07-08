@@ -3,6 +3,15 @@ layout : layout
 title : SiteName
 ---
 
+tableのテスト
+-------------
+
+First Header |Second Header
+-------------|-------------
+Content Cell |Content Cell
+Content Cell |Content Cell
+
+
 <ul class="posts">
     {% for post in site.posts limit:5 %}
 		<li>
