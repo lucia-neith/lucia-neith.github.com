@@ -2,5 +2,6 @@
 layout : layout
 title : site
 ---
+## site
 
-{{ site }}
+{{ site }}  <!-- ここを追加 -->
