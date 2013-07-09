@@ -1,6 +1,6 @@
 ---
 layout : layout
-title : SiteName
+title : 月鐘ねいとの、ものおきば
 ---
 
 tableのテスト
